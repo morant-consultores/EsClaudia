@@ -1,0 +1,13 @@
+Package: EsClaudia
+Title: #EsClaudia
+Version: 0.0.0.9000
+Authors@R: person('Emilio', 'Morones', email = 'emiliomorones@gmail.com', role = c('cre', 'aut'))
+Description: Reporte de cómo vamos con Claudia
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.5.9000),
+    shiny (>= 1.7.3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
